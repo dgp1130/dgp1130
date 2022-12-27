@@ -8,7 +8,7 @@ do.
 *   Check out [my blog](https://blog.dwac.dev/) with lots of crazy ideas, prototypes,
     and projects.
 *   Toot at me on Mastodon at
-    [@develwithoutacause@techhub.social](https://techhub.social/@develwithoutacause).
+    <a rel="me" href="https://techhub.social/@develwithoutacause">`@develwithoutacause@techhub.social`</a>.
 *   Check out my GitHub profile at [dgp1130](https://github.com/dgp1130/).
 *   Email me at [devel@dwac.dev](mailto:devel@dwac.dev).
 *   Historical [tweet archive](https://tweets.dwac.dev/) for `@develwoutacause`.
